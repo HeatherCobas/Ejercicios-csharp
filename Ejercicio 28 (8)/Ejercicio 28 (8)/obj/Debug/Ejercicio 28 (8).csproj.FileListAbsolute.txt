@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\obj\Debug\Ejercicio 28 (8).csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\obj\Debug\Ejercicio 28 (8).csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\bin\Debug\Ejercicio 28 (8).exe.config
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\bin\Debug\Ejercicio 28 (8).exe
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\bin\Debug\Ejercicio 28 (8).pdb
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\obj\Debug\Ejercicio 28 (8).exe
+C:\Users\pc\source\repos\Ejercicio 28 (8)\Ejercicio 28 (8)\obj\Debug\Ejercicio 28 (8).pdb
