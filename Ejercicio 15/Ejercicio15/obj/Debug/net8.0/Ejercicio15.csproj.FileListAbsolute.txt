@@ -1,0 +1,4 @@
+C:\Users\pc\source\repos\Ejercicio15\Ejercicio15\obj\Debug\net8.0\Ejercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Ejercicio15\Ejercicio15\obj\Debug\net8.0\Ejercicio15.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Ejercicio15\Ejercicio15\obj\Debug\net8.0\Ejercicio15.AssemblyInfo.cs
+C:\Users\pc\source\repos\Ejercicio15\Ejercicio15\obj\Debug\net8.0\Ejercicio15.csproj.CoreCompileInputs.cache
