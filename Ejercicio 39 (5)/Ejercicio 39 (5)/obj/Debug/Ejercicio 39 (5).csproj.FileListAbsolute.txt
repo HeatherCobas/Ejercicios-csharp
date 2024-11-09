@@ -1,7 +1,0 @@
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\obj\Debug\Ejercicio 39 (5).csproj.AssemblyReference.cache
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\obj\Debug\Ejercicio 39 (5).csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\bin\Debug\Ejercicio 39 (5).exe.config
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\bin\Debug\Ejercicio 39 (5).exe
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\bin\Debug\Ejercicio 39 (5).pdb
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\obj\Debug\Ejercicio 39 (5).exe
-C:\Users\pc\source\repos\Ejercicio 39 (5)\Ejercicio 39 (5)\obj\Debug\Ejercicio 39 (5).pdb
