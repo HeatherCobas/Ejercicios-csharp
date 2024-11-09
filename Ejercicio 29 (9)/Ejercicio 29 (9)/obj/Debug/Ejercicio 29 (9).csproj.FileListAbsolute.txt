@@ -1,7 +1,0 @@
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\bin\Debug\Ejercicio 29 (9).exe.config
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\bin\Debug\Ejercicio 29 (9).exe
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\bin\Debug\Ejercicio 29 (9).pdb
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\obj\Debug\Ejercicio 29 (9).csproj.AssemblyReference.cache
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\obj\Debug\Ejercicio 29 (9).csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\obj\Debug\Ejercicio 29 (9).exe
-C:\Users\pc\source\repos\Ejercicio 29 (9)\Ejercicio 29 (9)\obj\Debug\Ejercicio 29 (9).pdb
