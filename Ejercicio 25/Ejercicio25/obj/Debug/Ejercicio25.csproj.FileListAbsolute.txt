@@ -1,7 +1,0 @@
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\bin\Debug\Ejercicio25.exe.config
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\bin\Debug\Ejercicio25.exe
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\bin\Debug\Ejercicio25.pdb
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\obj\Debug\Ejercicio25.csproj.AssemblyReference.cache
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\obj\Debug\Ejercicio25.exe
-C:\Users\pc\source\repos\Ejercicio 25 (5)\Ejercicio25\obj\Debug\Ejercicio25.pdb
