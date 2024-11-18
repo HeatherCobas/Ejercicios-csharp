@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\EjercicioMetodos.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\EjercicioMetodos.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\EjercicioMetodos.exe.config
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\EjercicioMetodos.exe
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\bin\Debug\EjercicioMetodos.pdb
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\EjercicioMetodos.exe
+C:\Users\pc\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\EjercicioMetodos.pdb
