@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\SistemaReservas.FormReserva.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio_5.Properties.Resources.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.pdb
