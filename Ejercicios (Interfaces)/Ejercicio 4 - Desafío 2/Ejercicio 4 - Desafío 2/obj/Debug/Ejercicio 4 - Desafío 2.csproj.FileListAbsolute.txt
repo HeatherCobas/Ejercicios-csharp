@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\bin\Debug\Ejercicio 4 - Desafío 2.exe.config
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\bin\Debug\Ejercicio 4 - Desafío 2.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\bin\Debug\Ejercicio 4 - Desafío 2.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio 4 - Desafío 2.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio_4___Desafío_2.Form1.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio_4___Desafío_2.Properties.Resources.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio 4 - Desafío 2.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio 4 - Desafío 2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio 4 - Desafío 2.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 4 - Desafío 2\Ejercicio 4 - Desafío 2\obj\Debug\Ejercicio 4 - Desafío 2.pdb
