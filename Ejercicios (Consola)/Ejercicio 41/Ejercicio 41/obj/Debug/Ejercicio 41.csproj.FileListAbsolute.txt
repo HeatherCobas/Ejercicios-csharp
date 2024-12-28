@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\bin\Debug\Ejercicio 41.exe.config
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\bin\Debug\Ejercicio 41.exe
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\bin\Debug\Ejercicio 41.pdb
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\obj\Debug\Ejercicio 41.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\obj\Debug\Ejercicio 41.exe
+C:\Users\pc\source\repos\Ejercicios (Console)\Ejercicio 41\Ejercicio 41\obj\Debug\Ejercicio 41.pdb
