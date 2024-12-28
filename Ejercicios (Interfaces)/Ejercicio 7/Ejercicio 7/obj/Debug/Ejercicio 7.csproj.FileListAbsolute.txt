@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\bin\Debug\Desafio 5.exe.config
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\bin\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\bin\Debug\Desafio 5.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Desafio_5.Form1.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Desafio_5.Properties.Resources.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Ejercicio 7.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Desafio 5\obj\Debug\Desafio 5.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio_7.Form1.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Desafio_5.Properties.Resources.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\obj\Debug\Desafio 5.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\bin\Debug\Desafio 5.exe.config
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\bin\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Ejercicio 7\Ejercicio 7\bin\Debug\Desafio 5.pdb

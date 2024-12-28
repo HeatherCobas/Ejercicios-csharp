@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\bin\Debug\Desafio 5.exe.config
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\bin\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\bin\Debug\Desafio 5.pdb
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio 5.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio_5.Form1.resources
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio_5.Properties.Resources.resources
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio 5.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio 5.exe
+C:\Users\pc\source\repos\Desafio 5\Desafio 5\obj\Debug\Desafio 5.pdb
