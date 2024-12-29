@@ -1,0 +1,24 @@
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.exe.config
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.exe
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.pdb
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormPrincipal.resources
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormProducto.resources
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormProveedor.resources
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.Properties.Resources.resources
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.exe
+C:\Users\pc\source\repos\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.exe.config
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\bin\Debug\Prueba Técnica MDI Heather Cobas.pdb
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormPrincipal.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormProducto.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.FormProveedor.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba_Técnica_MDI_Heather_Cobas.Properties.Resources.resources
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.exe
+C:\Users\pc\source\repos\Ejercicios (Interfaces)\Prueba Técnica MDI Heather Cobas\Prueba Técnica MDI Heather Cobas\obj\Debug\Prueba Técnica MDI Heather Cobas.pdb
