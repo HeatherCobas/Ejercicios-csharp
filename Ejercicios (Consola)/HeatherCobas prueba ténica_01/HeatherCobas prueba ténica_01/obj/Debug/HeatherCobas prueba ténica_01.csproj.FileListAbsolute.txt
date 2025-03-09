@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.exe.config
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.exe
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.pdb
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.exe
+C:\Users\pc\source\repos\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.exe.config
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\bin\Debug\HeatherCobas prueba ténica_01.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\HeatherCobas prueba ténica_01\HeatherCobas prueba ténica_01\obj\Debug\HeatherCobas prueba ténica_01.pdb
