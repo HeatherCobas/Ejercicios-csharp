@@ -1,0 +1,30 @@
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.Form_P.resources
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\pc\source\repos\ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.Form_P.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 9 ProductosDB\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
