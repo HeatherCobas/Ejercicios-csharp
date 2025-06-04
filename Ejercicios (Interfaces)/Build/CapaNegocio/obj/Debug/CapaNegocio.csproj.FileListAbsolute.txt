@@ -1,0 +1,22 @@
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaNegocio\obj\Debug\CapaNegocio.pdb
