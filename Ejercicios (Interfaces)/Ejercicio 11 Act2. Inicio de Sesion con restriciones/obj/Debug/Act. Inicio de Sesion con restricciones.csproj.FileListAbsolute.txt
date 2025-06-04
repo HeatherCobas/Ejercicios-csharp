@@ -1,0 +1,22 @@
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\Act.Inicio_de_Sesion.exe.config
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\Act.Inicio_de_Sesion.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\Act.Inicio_de_Sesion.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaNegocio.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaNegocio.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act. Inicio de Sesion con restricciones.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.Login.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.FrmMensajesSoporte.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.FrmMensajesUsuario.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.FrmMenuPrincipal.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.FrmRegistrarUsuario.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.FrmUsuarios.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act. Inicio de Sesion con restricciones.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act. Inicio de Sesion con restricciones.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act. Ini.F0732CF9.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.exe
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\obj\Debug\Act.Inicio_de_Sesion.pdb
