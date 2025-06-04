@@ -1,16 +1,26 @@
-Ejercicio 11 - Act2: Inicio de Sesión con Restricciones
+🌌 Ejercicio 11 - Act2: Inicio de Sesión con Restricciones 🌌
 
-Descripción
-Esta actividad amplió el proyecto anterior agregando restricciones más estrictas para los roles de usuario. Como ya contaba con la funcionalidad de roles en la versión anterior, decidí enfocarme en mejorar la comunicación entre usuarios y el equipo de soporte mediante un sistema de mensajes integrado.
+🚀 Descripción
 
-Además, en esta versión las contraseñas están almacenadas de forma segura utilizando hashing, mejorando la seguridad respecto a la versión anterior.
+Esta actividad consistió en mejorar el sistema de inicio de sesión con restricciones específicas por roles, funcionalidad que ya estaba incluida parcialmente en la actividad anterior.
 
-Mejoras y características nuevas
+En esta versión se corrigió y mejoró la funcionalidad de mensajes entre usuarios y soporte, garantizando su correcto funcionamiento.
 
-Contraseñas almacenadas con hashing para mayor seguridad.
+También se implementó el almacenamiento seguro de contraseñas mediante hashing, una mejora importante respecto a la versión anterior.
 
-Sistema de mensajería para que usuarios puedan enviar solicitudes al soporte.
+Al igual que antes, cuenta con un apartado para registrar usuarios y un panel administrativo para la gestión completa de los usuarios.
 
-Gestión de mensajes desde el rol soporte para responder a los usuarios.
+✨ Funcionalidades destacadas
 
-Ajuste y mejora de mensajes de validación y notificaciones.
+Restricciones y permisos mejorados basados en roles.
+
+Gestión de mensajes entre usuarios y soporte funcionando correctamente.
+
+Registro de nuevos usuarios.
+
+Gestión de usuarios (CRUD) por parte del administrador.
+
+Almacenamiento seguro de contraseñas mediante hashing.
+
+Validación y mensajes claros para la interacción con el sistema.
+
