@@ -1,0 +1,18 @@
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaEntidades\obj\Debug\CapaEntidades.pdb

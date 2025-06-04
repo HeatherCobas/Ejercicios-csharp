@@ -1,0 +1,27 @@
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Act. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 10 Act1. Inicio de Sesion\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\pc\OneDrive\Documentos\Ejercicios C-sharp\Ejercicios (Interfaces)\Ejercicio 11 Act2. Inicio de Sesion con restriciones\CapaDatos\obj\Debug\CapaDatos.pdb
